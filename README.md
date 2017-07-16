@@ -1,0 +1,2 @@
+# odbieranieSeriala
+apkadosymulacji
